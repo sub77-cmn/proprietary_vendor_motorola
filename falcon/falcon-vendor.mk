@@ -41,37 +41,3 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/falcon/proprietary/vendor/lib/libmmcamera2_wnr_module.so:system/vendor/lib/libmmcamera2_wnr_module.so \
     vendor/motorola/falcon/proprietary/vendor/lib/liboemcamera.so:system/vendor/lib/liboemcamera.so \
     vendor/motorola/falcon/proprietary/vendor/lib/libqc-opt.so:system/vendor/lib/libqc-opt.so
-
-PRODUCT_COPY_FILES += \
-    vendor/motorola/falcon/proprietary/vendor/firmware/mba.b00:system/vendor/firmware/mba.b00 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/mba.mdt:system/vendor/firmware/mba.mdt \
-    vendor/motorola/falcon/proprietary/vendor/firmware/modem.b00:system/vendor/firmware/modem.b00 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/modem.b01:system/vendor/firmware/modem.b01 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/modem.b02:system/vendor/firmware/modem.b02 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/modem.b03:system/vendor/firmware/modem.b03 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/modem.b04:system/vendor/firmware/modem.b04 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/modem.b05:system/vendor/firmware/modem.b05 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/modem.b08:system/vendor/firmware/modem.b08 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/modem.b11:system/vendor/firmware/modem.b11 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/modem.b13:system/vendor/firmware/modem.b13 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/modem.b15:system/vendor/firmware/modem.b15 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/modem.b16:system/vendor/firmware/modem.b16 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/modem.b17:system/vendor/firmware/modem.b17 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/modem.b18:system/vendor/firmware/modem.b18 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/modem.b19:system/vendor/firmware/modem.b19 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/modem.b20:system/vendor/firmware/modem.b20 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/modem.b21:system/vendor/firmware/modem.b21 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/modem.b22:system/vendor/firmware/modem.b22 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/modem.b25:system/vendor/firmware/modem.b25 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/modem.b26:system/vendor/firmware/modem.b26 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/modem.b27:system/vendor/firmware/modem.b27 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/modem.mdt:system/vendor/firmware/modem.mdt \
-    vendor/motorola/falcon/proprietary/vendor/firmware/wcnss.b00:system/vendor/firmware/wcnss.b00 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/wcnss.b01:system/vendor/firmware/wcnss.b01 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/wcnss.b02:system/vendor/firmware/wcnss.b02 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/wcnss.b04:system/vendor/firmware/wcnss.b04 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/wcnss.b06:system/vendor/firmware/wcnss.b06 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/wcnss.b07:system/vendor/firmware/wcnss.b07 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/wcnss.b08:system/vendor/firmware/wcnss.b08 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/wcnss.b09:system/vendor/firmware/wcnss.b09 \
-    vendor/motorola/falcon/proprietary/vendor/firmware/wcnss.mdt:system/vendor/firmware/wcnss.mdt
